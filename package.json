@@ -1,8 +1,7 @@
 {
   "scripts": {
-    "demo": "node hello.js"
-  },
-  "dependencies": {
-    "lodash": "^4.17.10"
+    "predemo": "echo --- predemo ---",
+    "demo": "node hello.js",
+    "postdemo": "echo --- postdemo ---"
   }
 }
