@@ -1,7 +1,7 @@
 {
-    "scripts": {
-        "predemo": "echo --- predemo ---",
-        "postdemo": "echo --- postdemo ---",
-        "start": "node hello.js"
-    }
+  "scripts": {
+    "predemo": "echo --- predemo ---",
+    "postdemo": "echo --- postdemo ---",
+    "start": "node hello.js"
+  }
 }
